@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "Gilroy-Regular";
+    src: url(../fonts/Gilroy/Gilroy-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Gilroy-Medium";
+    src: url(../fonts/Gilroy/Gilroy-Medium.ttf);
+}
+
+@font-face {
+    font-family: "Gilroy-Bold";
+    src: url(../fonts/Gilroy/Gilroy-Bold.ttf);
+}
+
+@font-face {
+    font-family: "K_TCCCUnity-Regular";
+    src: url(../fonts/Unity/K_TCCCUnity-Regular.ttf);
+}
+
+@font-face {
+    font-family: "K_TCCCUnity-Medium";
+    src: url(../fonts/Unity/K_TCCCUnity-Medium.ttf);
+}
